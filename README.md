@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ###  Open Source Contributions
-![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)
+![Contributor](https://img.shields.io/badge/2nd%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)
 
 I 'm an open source contributor, love building cool projects and enjoy taking up challenges
 
