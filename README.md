@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hi! I'm Revathy Ramalingam, a software architect focused on **AI/ML, automation, and open-source development**.
 <!--
 **RevathyRamalingam/RevathyRamalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +20,6 @@ Here are some ideas to get you started:
 ![Contributor](https://img.shields.io/badge/2nd%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)
 
 ## Support My Open-Source Work
-
-Hi! I'm Revathy, a software architect focused on **AI/ML, automation, and open-source development**.
 
 I’m actively contributing to open-source projects such as **Kestra**, while also building AI/ML projects such as **Study Goblin**, an educational RAG-based application.
 
