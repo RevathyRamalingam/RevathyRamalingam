@@ -32,19 +32,6 @@ I’m actively contributing to open-source projects such as **Kestra**, while al
 * 🛠️ Open-source bug fixes, features, tests, and documentation
 * 📚 Educational AI tools
 
-### Why sponsor me?
-
-Your sponsorship helps me dedicate more time to:
-
-* Contributing fixes and new features to open-source projects
-* Building and maintaining useful AI/ML projects
-* Improving documentation and developer experience
-* Exploring and sharing practical AI engineering solutions
-
-Every sponsorship, regardless of the amount, is appreciated and helps support continued open-source development.
-
-**Thank you for supporting open source! ❤️**
-
 ## ❤️ Support My Work
 
 If you find my open-source projects or contributions useful, consider supporting my work through GitHub Sponsors.
