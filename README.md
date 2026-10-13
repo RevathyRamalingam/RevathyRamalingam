@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ###  Open Source Contributions
-![Contributor](https://img.shields.io/badge/3rd%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)
+[![Active Contributor](https://img.shields.io/badge/5%20PR%20MILESTONE-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=white&labelColor=8465FF)](https://github.com/search?q=org%3Akestra-io+author%3ARevathyRamalingam+is%3Apr+is%3Amerged&type=pullrequests)
 
 ## Support My Open-Source Work
 
